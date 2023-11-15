@@ -14,11 +14,8 @@ categories: jekyll update
 </script>
 
 ## github에서 저장소 생성
-<img src="../_site/assets/screenshot1.png">
-
-![저장소 이름](../_site/assets/screenshot1.png)
-/Users/kslivergun/work/rltgjqmtkdydwk.github.io/_site/assets/screenshot1.png
 [깃허브 사용자명].github.io 라는 이름으로 repository 생성
+<img src="../img/blog1.png">
 
 ## 로컬에서 github.io 환경 세팅(mac)
 1. ruby 설치

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Jekyll 블로그 테마 적용하기 (minimal-mistake)"
-date:   2023-11-06 16:30:12 +0900
-categories: jekyll update
+title:  "[블로그 제작기] 2. Jekyll에서 minimal-mistake 테마 적용하기"
+date:   2023-11-07 16:30:12 +0900
+categories: blog
 ---
 
 드디어 나도 깃허브 블로그가 생겼다고 기뻐하긴 이르다. 우리는 테마를 적용해야한다. 이제 시작이다...

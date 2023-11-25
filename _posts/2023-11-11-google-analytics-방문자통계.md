@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[블로그 제작기] Google Analytics 방문자 통계 만들기
+title:  "[블로그 제작기] Google Analytics 방문자 통계 만들기"
 date:   2023-11-11
 excerpt: "깃허브 블로그에 방문한 사람 수 세기"
 categories: 
@@ -32,11 +32,8 @@ analytics:
 <br/><br/>
 
 # 3. google tag 코드 추가
-**_includes/head.html** 의 중간에 gtag 스크립트 코드를 추가해준다.
+**_includes/head.html** 의 중간에 다음과 같이 자신이 할당받은 gtag 스크립트 코드를 추가해준다.
 ```html
-<!--생략-->
-</noscript>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9E4ENXQZVY"></script>
 <script>
@@ -46,9 +43,6 @@ analytics:
 
   gtag('config', 'G-9E4ENXQZVY');
 </script>
-
-{% if site.head_scripts %}
-  <!--생략-->
 ```
 <br/><br/>
 

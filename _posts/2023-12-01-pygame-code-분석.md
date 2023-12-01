@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "[게임 제작기] 2화 물고기 사냥 대작전"
+title:  "[게임 제작기] 2화 코드 재구성"
 date:   2023-12-01
-excerpt: "공룡게임을 기반으로 게임 만들기"
+excerpt: "모듈화 : 객체 지향 구조 만들기"
 categories: 
     - pygame
 tag: [python, pygame]

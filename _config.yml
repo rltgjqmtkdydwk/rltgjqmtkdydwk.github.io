@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Eunchong Kim"
+  avatar           : "/assets/avatar.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an person."
   location         : "Somewhere"
   email            : slvrcods22@gmail.com
   links:
@@ -126,7 +126,7 @@ author:
       url: "https://github.com/rltgjqmtkdydwk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
